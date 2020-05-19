@@ -6,8 +6,7 @@ Repositorio de colores
 
 
 # Tecnologias aplicadas
-Repositorio de colores 
-
+Estos son las tecnologias utilizadas en el desarrollo
 <ul>
   <li>HTML</li>
   <li>CSS</li>
