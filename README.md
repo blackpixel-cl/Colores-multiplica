@@ -1,6 +1,7 @@
 # Colores-multiplica
 Repositorio de colores 
 
-Colores-multiplica
-Repositorio de colores 
-
+HTML
+CSS
+Bootstrap
+Pantone
