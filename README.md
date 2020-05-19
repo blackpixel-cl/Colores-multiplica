@@ -1,7 +1,10 @@
 # Colores-multiplica
 Repositorio de colores 
 
-HTML
-CSS
-Bootstrap
-Pantone
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+
+</ul>
+
